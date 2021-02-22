@@ -1,0 +1,12 @@
+name: capstone_ngram_model
+title: capstone_ngram_model
+username:
+account: nunnall1
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3670763
+bundleId: 4249937
+url: https://nunnall1.shinyapps.io/capstone_ngram_model/
+when: 1613861061.46955
+asMultiple: FALSE
+asStatic: FALSE
